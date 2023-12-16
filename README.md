@@ -1,12 +1,8 @@
 # React Framer Motion Introduction
 
-![React Currency Converter Screenshot](currency-converter-screenshot.png)
-
 ## About The Project
 
 An introduction to adding animation to React compontents using Framer Motion.
-
-[Live Demo](https://skenzler.github.io/react-currency-converter/)
 
 ## Built With
 
@@ -27,3 +23,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - [Github](https://github.com)
 - [VS Code](https://code.visualstudio.com)
+- Framer Motion(https://www.framer.com/motion/)
